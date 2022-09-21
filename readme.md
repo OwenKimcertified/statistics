@@ -8,5 +8,6 @@
 CLT, LOL, Interval confidence
 
 
+### 2022 / 9 / 18
 
-### P value에 대하여
+P value에 대하여
