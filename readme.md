@@ -15,3 +15,8 @@ about P - value
 ### 2022 / 9 / 24
 
 how to calculate P - value
+
+
+### 2022 / 10 / 04
+
+Maximum likelihood Estimator 개념 
